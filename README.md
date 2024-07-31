@@ -10,7 +10,7 @@
     <a href="https://linkedin.com/in/Omran-Alksour" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" height="30">
     </a>
-    <a href="mailto:omran.alksour@gmail.com" target="_blank">
+    <a href="mailto:omranalksour@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" height="30">
     </a>
     <a href='https://github.com/Omran-Alksour?tab=repositories&sort=stargazers'>
