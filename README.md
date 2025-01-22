@@ -72,8 +72,8 @@
       <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <br>
-    <a href="https://github.com/Omran-Alksour">
+   <!--   <a href="https://github.com/Omran-Alksour">
         <img alt="Commit Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Omran-Alksour&theme=react-dark" />
-    </a>
+    </a>-->
 </div>
 
